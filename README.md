@@ -194,7 +194,7 @@ SQL Reporting
 
 ## Author
 
-**Aman Choudhary**
+**Aman**
 
 B.Tech Computer Science & Engineering
 
